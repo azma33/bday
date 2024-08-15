@@ -6,13 +6,13 @@ body {
   background-repeat: no-repeat;
   font-size: 14px;
   font-family: sans-serif;
-  color: white;
+  color: black;
   overflow: auto;
   margin: 0;
   padding: 0;
 }
 a {
-  color: white;
+  color: black;
   font-size: 14px;
 }
 #main {
@@ -34,7 +34,7 @@ a {
 }
 #code {
   display: none;
-  color: rgb(196, 255, 255);
+  color: black;
   font-size: 16px;
   margin-top: 70px;
   line-height: 25px;
